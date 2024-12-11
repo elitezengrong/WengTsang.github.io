@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Weng Tsang (曾嵘) / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Weng Tsang"
+description              : &description "Golden Blooded"
 url                      : https://elitezengrong.github.io/WengTsang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
