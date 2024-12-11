@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in the [School of Computer Science and Enginnering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), under the supervision of [Prof. Xu Chen](https://cse.sysu.edu.cn/node/2497). My research interest includes deep learning, LLM, machine learning, and distributed system.
+I am currently a master student in the [School of Computer Science and Enginnering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), under the supervision of [Prof. Xu Chen](https://cse.sysu.edu.cn/node/2497). My research interest includes DL, LLM, ML, and distributed system.
 
 My Undergraduate Study
 ======
