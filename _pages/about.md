@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;">
 I'm a forth year undergraduate student from the [School of Electronics and Communication Engineering](https://sece.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I will pursue a Master’s degree at the [School of Computer Science and Enginnering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). My research interest includes deep learning, LLM, machine learning, and distributed system.
 
 My Undergraduate Career
 ======
 My undergraduate major is Communication Engineering, with a focus on signal processing in the field of communications. During my undergraduate studies, I had the honor of being mentored by [Prof. Kechao Cai](https://sece.sysu.edu.cn/szll/js/rztx/1389939.htm) and [Prof. Yifeng Wu](https://sece.sysu.edu.cn/szll/js/zngz/1384617.htm).
+</div>
