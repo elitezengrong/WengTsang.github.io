@@ -16,7 +16,9 @@ I received the B.E. degree in the [School of Electronics and Communication Engin
 Skills and Interests
 ======
 Programming: Python, MATLAB, C, C++
+
 Languages: Cantonese (native), Mandarin (native), poor English
+
 Interests: basketball, tour, delicious food, CS2
 
 Publications
