@@ -18,3 +18,7 @@ Skills and Interests
 Programming: Python, MATLAB, C, C++
 Languages: Cantonese (native), Mandarin (native), poor English
 Interests: basketball, tour, delicious food, CS2
+
+Publications
+======
+1. [Zhang Y, Zeng R, et al. Complex-Valued Neural Network with Multi-Step Training for Single-Snapshot DOA Estimation. IEEE Geoscience and Remote Sensing Letters, 2024.](https://ieeexplore.ieee.org/abstract/document/10458139)
