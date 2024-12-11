@@ -20,3 +20,9 @@ Skills and Interests
 1. Programming: Python, MATLAB, C, C++
 2. Languages: Cantonese (native), Mandarin (native), poor English
 3. Interests: basketball, tour, delicious food, CS2
+
+Honors and Awards
+======
+1. SYSU Excellent Undergraduate Second Prize Scholarship 2021
+2. SYSU Excellent Undergraduate Second Prize Scholarship 2022
+3. SYSU Excellent Undergraduate Second Prize Scholarship 2023
