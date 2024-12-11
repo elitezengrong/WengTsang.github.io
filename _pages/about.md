@@ -11,3 +11,4 @@ I'm a forth year undergraduate student from the [School of Electronics and Commu
 
 My Undergraduate Career
 ======
+My undergraduate major is Communication Engineering, with a focus on signal processing in the field of communications. During my undergraduate studies, I had the privilege of being supervised by [Professor Kechao Cai](https://sece.sysu.edu.cn/szll/js/rztx/1389939.htm) and [Professor Yifeng Wu](https://sece.sysu.edu.cn/szll/js/zngz/1384617.htm).
